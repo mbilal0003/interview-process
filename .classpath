@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Win 7/Desktop/gwt-2.4.0/gwt-2.4.0/gwt-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Win 7/Desktop/gwt-2.4.0/gwt-2.4.0/gwt-user.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
